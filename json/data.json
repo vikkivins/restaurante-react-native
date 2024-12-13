@@ -1,0 +1,69 @@
+{
+  "comidas": [
+    {
+      "nome": "Ravioli de Ricota",
+      "valor": "45,00",
+      "imagem": "https://i.pinimg.com/564x/6f/14/df/6f14df8764ad9a9037b749e46aaafaa2.jpg"
+    },
+    {
+      "nome": "Filet Mignon",
+      "valor": "80,00",
+      "imagem": "https://example.com/filet_mignon.jpg"
+    },
+    {
+      "nome": "Risoto de Funghi",
+      "valor": "55,00",
+      "imagem": "https://example.com/risoto_funghi.jpg"
+    }
+  ],
+  "bebidas": [
+    {
+      "nome": "Vinho Tinto",
+      "valor": "120,00",
+      "imagem": "https://example.com/vinho_tinto.jpg"
+    },
+    {
+      "nome": "Espumante",
+      "valor": "90,00",
+      "imagem": "https://example.com/espumante.jpg"
+    }
+  ],
+  "drinks": [
+    {
+      "nome": "Dry Martini",
+      "valor": "25,00",
+      "imagem": "https://example.com/dry_martini.jpg"
+    },
+    {
+      "nome": "Whiskey Sour",
+      "valor": "30,00",
+      "imagem": "https://example.com/whiskey_sour.jpg"
+    }
+  ],
+  "porcoes": [
+    {
+      "nome": "Queijo Brie",
+      "valor": "35,00",
+      "imagem": "https://example.com/queijo_brie.jpg"
+    },
+    {
+      "nome": "Tábua de Frios",
+      "valor": "50,00",
+      "imagem": "https://example.com/tabua_frios.jpg"
+    }
+  ],
+  "promocao": [
+    {
+      "nome": "Combo Gourmet",
+      "valor": "150,00",
+      "descricao": "Inclui Ravioli de Ricota, Vinho Tinto e Queijo Brie.",
+      "imagem": "https://example.com/combo_gourmet.jpg"
+    },
+    {
+      "nome": "Degustação de Drinks",
+      "valor": "50,00",
+      "descricao": "Inclui uma seleção especial de drinks: Dry Martini e Whiskey Sour.",
+      "imagem": "https://example.com/degustacao_drinks.jpg"
+    }
+  ]
+}
